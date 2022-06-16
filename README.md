@@ -21,4 +21,4 @@ To start with this package, just open the [Main.m](./matlabcode/Main.m) file wit
 Visit my [Homepage](https://andali89.github.io/homepage/) for more introduction about my researches.
 
 ## Notes
-The source code is established based on the original code of whale optimization algorithm (WOA)proposed by Prof. [Seyedali Mirjalili](http://www.alimirjalili.com).
+The source code is established based on the original code of whale optimization algorithm (WOA) proposed by Prof. [Seyedali Mirjalili](http://www.alimirjalili.com).
