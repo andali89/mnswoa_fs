@@ -13,8 +13,8 @@ For a detailed description of the method please refer to
 characteristic identification in production processes using a nondominated-sorting-based 
 whale optimization algorithm. Computers & Industrial Engineering, 149, 106852. 
 [doi:10.1016/j.cie.2020.106852](https://doi.org/10.1016/j.cie.2020.106852) 
-> 
-> [[download the bib file](Li2020MNSWOA.bib)] [[download the PDF](https://github.com/andali89/homepage/raw/master/pubs/2020_MNSWOA.pdf)]
+
+>[<a href="https://raw.githubusercontent.com/andali89/mnswoa_fs/master/Li2020MNSWOA.bib" target="_blank" download="">download the bib file</a>] [[download the PDF](https://github.com/andali89/homepage/raw/master/pubs/2020_MNSWOA.pdf)]
 
 ## Usage
 - To start with this package, just open the [Main.m](./matlabcode/Main.m) file with Matlab and you will find out how to use it. 
