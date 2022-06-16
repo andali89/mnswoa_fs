@@ -7,7 +7,7 @@
 % modified nondominated-sorting-based whale optimization algorithm (MNSWOA)
 % for key quality characteristic identification in production processes (feature selection).
 % The optimization method adapt the  whale optimization algorithm (WOA) into 
-% multi-objectrive scenario with several new components, a modified non-dominated sorting
+% multi-objective scenario with several new components, a modified non-dominated sorting
 % approach, a uniform reference solution selection strategy, and mutation operations. 
 % For a detailed description of the method please refer to 
 

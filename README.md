@@ -5,7 +5,7 @@ This is an implementation of a multi-objective optimization algorithm called
 modified nondominated-sorting-based whale optimization algorithm (MNSWOA)
 for key quality characteristic identification (feature selection) in production processes .
 The optimization algorithm adapts the single objective whale optimization algorithm (WOA) into 
-the multi-objectrive scenario with several new components, i.e., a modified non-dominated sorting
+the multi-objective scenario with several new components, i.e., a modified non-dominated sorting
 approach, a uniform reference solution selection strategy, and mutation operations. 
 For a detailed description of the method please refer to 
 
