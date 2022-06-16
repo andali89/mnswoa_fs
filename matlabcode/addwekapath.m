@@ -1,0 +1,2 @@
+
+ javaaddpath('..\weka\weka.jar');
