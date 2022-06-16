@@ -15,7 +15,7 @@ whale optimization algorithm. Computers & Industrial Engineering, 149, 106852.
 [doi:10.1016/j.cie.2020.106852](https://doi.org/10.1016/j.cie.2020.106852) 
 
 ## Usage
-To start with this package, just open the [Main.m](./matlabcode/Main.m) file with Matlab and you will find out how to use it. 
+To start with this package, just open the `Main.m` file with Matlab and you will find out how to use it. 
 
 ## My Homepage
 Visit my [Homepage](https://andali89.github.io/homepage/) for more introduction about my researches.
