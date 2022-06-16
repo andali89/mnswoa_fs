@@ -13,7 +13,6 @@ For a detailed description of the method please refer to
 characteristic identification in production processes using a nondominated-sorting-based 
 whale optimization algorithm. Computers & Industrial Engineering, 149, 106852. 
 [doi:10.1016/j.cie.2020.106852](https://doi.org/10.1016/j.cie.2020.106852) 
-
 >[<a href="https://raw.githubusercontent.com/andali89/mnswoa_fs/master/Li2020MNSWOA.bib" download>download the bib file</a>] [[download the PDF](https://github.com/andali89/homepage/raw/master/pubs/2020_MNSWOA.pdf)]
 
 ## Usage
